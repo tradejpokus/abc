@@ -1,0 +1,12 @@
+dependencies:
+- rpm:
+  - perl
+- rpm:
+  - perl
+devassistant_version: 0.9.0a2
+original_kwargs:
+  github: tradejpokus
+  name: /tmp/abc
+project_type:
+- perl
+- class
